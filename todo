@@ -1,0 +1,10 @@
+Classes:
+  - block
+    - timestamp
+    - hash
+    - data
+    - prevHash
+  - blockchain
+    - addBlock
+    - createGenesis
+    
